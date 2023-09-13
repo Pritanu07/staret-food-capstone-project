@@ -11,8 +11,8 @@ jobs:
     name: Check for Vulnerabilities with npm audit
     runs-on: ubuntu-latest
     steps:
-    - name: Check out code
-      uses: actions/checkout@v2
+    #- name: Check out code
+     # uses: actions/checkout@v2
     #- name: Set up Node.js
       #uses: actions/setup-node@v2
       with:
@@ -30,8 +30,8 @@ jobs:
     needs: vulnerabilities-audit
     runs-on: ubuntu-latest
     steps:
-    - name: Check out code
-      uses: actions/checkout@v2
+   #- name: Check out code
+      #uses: actions/checkout@v2
     #- name: Set up Node.js
       #uses: actions/setup-node@v2
       with:
