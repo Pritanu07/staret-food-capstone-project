@@ -88,4 +88,3 @@ Conclusion
 By following this guide, you've learned how to build a Docker image, push it to Amazon ECR, deploy an ECS service using Terraform, and manage resources effectively. This approach provides a streamlined way to manage your containerized applications on AWS.
 Remember to replace placeholder values with your actual configuration details and paths. For more advanced scenarios, you can extend this configuration further.
 
-
