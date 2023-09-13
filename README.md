@@ -1,4 +1,5 @@
 DevSecOps-CI/CD Pipeline-Capstone project
+
 Company Profile:
 
 Staret Foods is specialized for the elderly based on their dietary needs. Staret Foods mainly serves Singapore. Their main target group is people who are over 60 and have special dietary needs. Even though there are many food delivery services in the market, Staret Foods is the monopoly in the elder’s food business. Since its focus group is the elderly, Staret Foods wants to maintain their website as easily accessible and more secure from vulnerabilities. I have been approached with the above requirement from Staret Foods, and my suggestion is to use ECS with Terraform infrastructure using the Far Gate (serverless) platform. As a cloud infrastructure engineer, I extended my support to make their application more secure and reliable based on the cloud DevSecOps approach in an automated CI/CD pipeline. Technical recommendations are as follows in detail:
